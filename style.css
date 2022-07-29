@@ -70,6 +70,9 @@ h3{
 }
 
 /*---- Courses Start-----*/
+.card-body h3{
+    color: #555353;
+}
 .courses-img{
     width: 100%;
 }
@@ -85,7 +88,7 @@ h3{
     height: 250PX;
 }
 .modal-1{
-    padding-left: 90px;
+    padding-left: 30px;
    
 }
 .modal-btn{
@@ -96,8 +99,15 @@ h3{
 .accordion-box{
     margin-bottom: 90px;
 }
+.accordion-box p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
 .courses-btn{
     margin-top: 30px;
+}
+.accordion-item .accordion-q{
+    color: #555353;
 }
 
 /* companies */
