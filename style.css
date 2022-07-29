@@ -100,9 +100,18 @@ h3{
     margin-top: 30px;
 }
 
+/* companies */
+.companies-box{
+    margin-top: 90px;
+    margin-bottom: 70px;
+}
+.companies-name{
+    margin-top: 40px;
+}
+
 /*-- footer--*/
 footer{
-   
+   margin-top: 90px;
 }
 footer h2{
     margin-top: 90px;
