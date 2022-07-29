@@ -63,10 +63,11 @@ h3{
     padding-top: 1rem;
 
 }
+
+/*---- Slider Start-----*/
 .slider-btn{
     margin-top: 30px;
 }
-/*---- Slider Start-----*/
 
 /*---- Courses Start-----*/
 .courses-img{
@@ -75,7 +76,11 @@ h3{
 .courses-btn{
     margin-bottom: 100px;
 }
+
 /*- ---modal-- --*/
+.modal-box{
+    margin-bottom: 120px;
+}
 .join{
     height: 250PX;
 }
@@ -86,9 +91,10 @@ h3{
 .modal-btn{
     background-color: white;
 }
-/*-- accordion --*/
-.accor{
 
+/*-- accordion --*/
+.accordion-box{
+    margin-bottom: 90px;
 }
 .courses-btn{
     margin-top: 30px;
